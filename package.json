@@ -1,6 +1,7 @@
 {
   "name": "gatepredictor",
   "version": "0.1.0",
+  "homepage": "https://any-ket.github.io/gate2023RankPredictor",
   "private": true,
   "dependencies": {
     "@mui/material": "*",
