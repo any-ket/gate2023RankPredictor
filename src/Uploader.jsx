@@ -30,7 +30,7 @@ export default function UploadButtons() {
     <div>
       <Stack direction="column" alignItems="center" spacing={20}>
         <Button variant="contained" component="label">
-          Upload CSV
+          Upload HTML file of GATE Response page
           <input hidden accept=".html" type="file" onChange={handleChange}/>
         </Button>
         {
