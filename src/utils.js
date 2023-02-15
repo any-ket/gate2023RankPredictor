@@ -2,11 +2,11 @@ function convertTableToJSON(table) {
   var header = [];
   var rows = [];
 
-  for (var i = 0; i < table.rows[0].cells.length; i++) {
+  for (let i = 0; i < table.rows[0].cells.length; i++) {
     header.push(table.rows[0].cells[i].innerHTML);
   }
 
-  for (var i = 1; i < table.rows.length; i++) {
+  for (let i = 1; i < table.rows.length; i++) {
     var row = {}, row2 = {}, row3 = {};
     for (var j = 0; j < table.rows[i].cells.length; j++) {
       let elem =table.rows[i].cells[j].innerHTML;
