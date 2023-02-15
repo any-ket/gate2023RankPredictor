@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gate2023RankPredictor/static/css/main.073c9b0a.css",
+    "main.js": "/gate2023RankPredictor/static/js/main.a06852ac.js",
+    "index.html": "/gate2023RankPredictor/index.html",
+    "main.073c9b0a.css.map": "/gate2023RankPredictor/static/css/main.073c9b0a.css.map",
+    "main.a06852ac.js.map": "/gate2023RankPredictor/static/js/main.a06852ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a06852ac.js"
+  ]
+}
